@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="Survey" version="1.0">
+    <phrase version="1.0">
+        <displayname>Survey</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Survey.wav</audiofile>
+    </phrase>
+    <phrase version="1.0">
+        <displayname>Demo</displayname>
+        <talent/>
+        <phrasetext/>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>Surveys.wav</audiofile>
+    </phrase>
+</phraseset>
